@@ -103,7 +103,7 @@ Per gestire efficacemente i tag relativi al consenso:
 
 *scambiamo i nomi delle variabili ed eliminiamo la variabile inutilizzata*
 
-![Controllo Gestione Lingua](./immagini/dopo%20la%20modifica%20della%20variabile%20lingua.png)
+![Controllo Gestione Lingua](./immagini/dopo%20aver%20linkato%20vecchia%20variabile%20possiamo%20eliminare%20la%20nuova%20e%20rinominare%20la%20vecchia.png)
 
 *Verifica della corretta implementazione della gestione lingua*
 
